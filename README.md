@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Axl Coronado
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently studying Software Engineering
-- 💞️ I’m looking to collaborate on people with the same goals
+<!--- - 💞️ I’m looking to collaborate on people with the same goals --->
 <!--- - 📫 How to reach me ... --->
 
 <!---
