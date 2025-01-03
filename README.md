@@ -10,7 +10,7 @@
 
 <br>
 
-- I am a Just Graduated of Informatics Engineer
+- Graduated in Informatics Engineering in December 2024
 - A passionate Self-taught Back-end developer and Front-end developer
 - Currently learning Web Development and IoT
 - I love working together with other programmers and learning from them
