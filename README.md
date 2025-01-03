@@ -10,7 +10,7 @@
 
 <br>
 
-- I am a Software Engineering Student
+- I am a Just Graduated of Informatics Engineer
 - A passionate Self-taught Back-end developer and Front-end developer
 - Currently learning Web Development and IoT
 - I love working together with other programmers and learning from them
